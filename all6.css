@@ -1,0 +1,196 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+.nav-baar{
+    margin-top: 7px;
+}
+
+.end{
+    background-color: rgb(219,240,249);
+}
+
+.div1{
+   
+    margin-top: -10px;
+    display: flex;
+}
+
+
+.allhero{
+    background-image: url(itemf.jpg);
+    height: 500px;
+    width: 40%;
+    background-size: cover;
+    
+  
+    
+}
+
+.allhero-cont{
+    
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 60%;
+    display: block;
+    color: black;
+
+
+}
+
+.allhero-cont-head{
+   
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    margin-left: 30px;
+    margin-top: 20px;
+
+    
+
+}
+.hr{
+    position: relative;
+   background-color: rgb(50, 142, 181);
+    height: 1px;
+    width: 100%;
+    margin-left: 30px;
+}
+
+.hr2{
+    position: relative;
+   background-color: rgb(50, 142, 181);
+    height: 0.9px;
+    width: 100%;
+    margin-left: 30px;
+    top: 120px;
+}
+
+
+
+.allhero-cont-price{
+   
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100%;
+    color: rgb(10, 40, 117);
+    margin-left: 30px;
+    margin-top: 20px;
+
+    
+
+}
+
+.allhero-cont-price a{
+   
+    
+    color: rgb(27, 42, 48);;
+    
+
+    
+
+}
+
+.allhero-cont-price h1{
+   position: relative;
+   margin-top: -13px;
+    font-size: xx-large;
+   margin-left: 143px;
+    font-weight: 400;
+   color: rgb(10, 40, 117);
+}
+
+.allhero-cont-price i{
+   position: relative;
+    bottom: -7px;
+
+    margin-left: 130px;
+    color: rgb(10, 40, 117);
+ }
+
+ .allhero-cont-price p{
+    position: relative;
+    font-size: xx-large;
+    margin-left: 0px;
+    top: 40px;
+    color: rgb(10, 40, 117);
+    font-weight: 400;
+ }
+
+
+ .allhero-cont-price pi1{
+    position: relative;
+    font-size: large;
+    margin-left: -130px;
+   top: -8px;
+    color: rgb(10, 40, 117);
+    font-weight: 400;
+ }
+
+ .allhero-cont-price p-dot{
+    position: relative;
+    font-size: x-large;
+    margin-left: 7px;
+   top: -3px;
+   color: rgb(10, 40, 117);
+    font-weight: 400;
+ }
+
+
+
+
+
+.allhero-cont-head p{
+   
+    
+    color: rgb(50, 142, 181);
+    
+
+}
+
+
+.offer a{
+   
+    font-size: large;
+    color: rgb(50, 142, 181);
+    
+
+}
+
+
+
+
+
+
+.buy-but{
+    background-color: rgb(47, 112, 152);
+    height: 50px;
+    width: 200px;
+    border-radius: 2rem;
+    position: relative;
+    top: 30px;
+    left: 45px;
+    color: white;
+    font-size: large;
+}
+
+.buy-but2{
+    background-color: rgb(47, 112, 152);
+    height: 50px;
+    width: 200px;
+    border-radius: 2rem;
+    position: relative;
+    top: 90px;
+    left: -158px;
+    color: white;
+    font-size: large;
+}
+
+
